@@ -1,0 +1,99 @@
+body {
+    background-color: #f8f9fa;
+}
+
+#logo-brand {
+    width: 60px;
+    height: 60px;
+    padding: 0px;
+    margin: 0px;
+}
+.container {
+    max-width: 600px;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+/* Mengatur warna latar belakang dan teks untuk elemen body */
+body {
+    background-color: #f8f9fa;
+    color: #333;
+  }
+  
+  /* Styling untuk judul form */
+h1 {
+    color: #333;
+    font-size: 24px;
+  }
+  
+  /* Styling untuk pesan alert */
+  .alert {
+    margin-top: 20px;
+  }
+  
+  /* Styling untuk tombol kirim */
+  .btn-primary {
+    margin-top: 20px;
+  }
+  
+  /* Styling untuk navbar */
+  .navbar {
+    background-color: #f8f9fa; /* Warna latar belakang navbar */
+  }
+  
+  .navbar-brand {
+    margin-right: 20px; /* Jarak antara logo dan teks */
+  }
+  
+  .navbar-text {
+    font-size: 18px;
+  }
+  
+  /* Styling untuk form */
+  .container {
+    max-width: 600px; /* Lebar maksimum form */
+  }
+  
+  /* Styling untuk input */
+  .form-control {
+    margin-bottom: 15px; /* Jarak antar input */
+  }
+  
+  /* Styling untuk label */
+  .form-label {
+    font-weight: bold;
+  }
+  
+  /* Styling untuk invalid feedback */
+  .invalid-feedback {
+    color: #dc3545; /* Warna merah */
+  }
+  
+  /* Styling untuk opsi dropdown */
+  .form-select {
+    margin-bottom: 15px; /* Jarak antar dropdown */
+  }
+  
+  /* Styling untuk tombol reset */
+  #contactForm input[type="reset"] {
+    margin-top: 20px; /* Jarak antara tombol reset dan tombol kirim */
+  }
+  
+  body {
+    background-color: #f2f2f2; /* Warna latar belakang kalem */
+  }
+  
+  .container {
+    background-color: #fff; /* Warna latar belakang konten */
+    padding: 20px; /* Ruang di sekitar konten */
+    border-radius: 10px; /* Sudut bulat pada konten */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Bayangan lembut */
+  }
+  
+  .navbar {
+    background-color: #fff; /* Warna latar belakang navbar */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Bayangan lembut */
+  }
+  
